@@ -3,7 +3,7 @@
 [![CI](https://github.com/Shamanchi/agent-instagram-crew/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/agent-instagram-crew/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](./Dockerfile)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](./LICENSE)
 
 > **English TL;DR:** FastAPI Instagram content crew: planner picks pillars, copywriter drafts captions with CTA, designer writes the visual brief, hashtag set assembled from the topic. Fully offline with deterministic templates.
 
